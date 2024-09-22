@@ -2,7 +2,7 @@
 my configuration for neovim with all my plugins, language servers and everything
 
 
-## plugins:
+# plugins:
 
 ### start screen
 alpha
@@ -19,15 +19,10 @@ toggleterm
 ### highlighting
 treesitter
 ### language servers
-none-ls
-lsp-config
+none-ls, lsp-config
 ### auto-completions
-cmp-nvim-lsp
-luasnip
-cmp_luasnip
-friendly-snippets
-nvim-cmp
+cmp-nvim-lsp, luasnip, cmp_luasnip, friendly-snippets, nvim-cmp
 
 
-## Controls
+# Controls
 listed in help file on start screen
