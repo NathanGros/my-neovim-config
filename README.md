@@ -2,26 +2,26 @@
 my configuration for neovim with all my plugins, language servers and everything
 
 
-# plugins:
+## plugins:
 
-# start screen
+### start screen
 alpha
-# colorscheme
+### colorscheme
 catppuccin
-# bottom line
+### bottom line
 lualine
-# navigation tree
+### navigation tree
 neotree
-# navigation
+### navigation
 telescope
-# terminal
+### terminal
 toggleterm
-# highlighting
+### highlighting
 treesitter
-# language servers
+### language servers
 none-ls
 lsp-config
-# auto-completions
+### auto-completions
 cmp-nvim-lsp
 luasnip
 cmp_luasnip
@@ -29,5 +29,5 @@ friendly-snippets
 nvim-cmp
 
 
-# Controls
+## Controls
 listed in help file on start screen
