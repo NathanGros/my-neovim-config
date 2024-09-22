@@ -1,0 +1,24 @@
+Controls for all plugins :
+
+
+Alpha:
+Ctrl + a : open start screen
+
+LSPs:
+Ctrl + h : open help info of selected element
+gd : go to definition of selected element
+Ctrl + e : code actions if they exist
+Ctrl + g : go to next error of diagnostic
+
+NeoTree:
+Ctrl + m : open NeoTree
+? : open NeoTree controls
+
+None-ls:
+Ctrl + f : auto format file
+
+Telescope:
+Ctrl + p : open Telescope
+
+ToggleTerm:
+Ctrl + d : toggle Terminal

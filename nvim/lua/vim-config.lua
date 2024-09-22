@@ -1,0 +1,15 @@
+vim.cmd("set nocompatible")
+vim.cmd("set showcmd")
+vim.cmd("set wildmenu")
+vim.cmd("set number")
+vim.cmd("set ruler")
+vim.cmd("set autoindent")
+vim.cmd("set tabstop=3")
+vim.cmd("set shiftwidth=3")
+vim.cmd("set incsearch")
+vim.cmd("set cursorline")
+vim.cmd("set undofile")
+vim.cmd("set scrolloff=6")
+vim.cmd("let c_no_curly_error = 1")
+vim.g.mapleader = " "
+vim.g.maplocalleader = "\\"
